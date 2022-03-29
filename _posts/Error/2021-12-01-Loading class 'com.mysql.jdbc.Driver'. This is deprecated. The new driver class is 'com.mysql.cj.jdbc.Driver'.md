@@ -5,7 +5,7 @@ author:
   link: https://github.com/dldydrhkd
 date: 2021-12-01 11:49:00
 categories: [Error]
-tags: [Java, JDVC, driver]
+tags: [Java, JDBC, driver]
 math: true
 mermaid: true
 ---
