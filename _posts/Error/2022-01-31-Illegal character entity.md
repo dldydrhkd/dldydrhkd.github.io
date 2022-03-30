@@ -1,6 +1,5 @@
 ---
-title: 'com.ctc.wstx.exc.WstxParsingException: Illegal character entity: expansion character (code 0x8
-at [row,col,system-id]:[3215,96,"file:/home/hadoop/hive-3.1.2/conf/hive-site.xml"]'
+title: 'com.ctc.wstx.exc.WstxParsingException: Illegal character entity: expansion character'
 author:
   name: 이용광
   link: https://github.com/dldydrhkd
