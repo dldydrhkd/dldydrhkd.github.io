@@ -1,5 +1,6 @@
 ---
-title: 'com.ctc.wstx.exc.WstxParsingException: Illegal character entity: expansion character'
+title: 'com.ctc.wstx.exc.WstxParsingException: Illegal character entity: expansion character (code 0x8
+at [row,col,system-id]:[3215,96,"file:/home/hadoop/hive-3.1.2/conf/hive-site.xml"]'
 author:
   name: 이용광
   link: https://github.com/dldydrhkd
@@ -23,5 +24,5 @@ mermaid: true
     
     <img width="1143" alt="스크린샷_2022-01-31_오후_7 21 09" src="https://user-images.githubusercontent.com/48857296/160731557-1dc0e7ac-d08f-4b90-8eb5-6d3e6260cb05.png">
     
-    - 을 빼주었다.
+    - for 뒤에 문제가 되는 4개의 문자를 빼주었다.
 - 빼주고 다시 hive를 실행했더니 해결이 되었다.
