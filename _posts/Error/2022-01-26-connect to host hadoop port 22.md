@@ -1,5 +1,5 @@
 ---
-title: 'ssh: connect to host hadoop port 22: No route to host'
+title: ssh connect to host hadoop port 22 No route to host
 author:
   name: 이용광
   link: https://github.com/dldydrhkd
