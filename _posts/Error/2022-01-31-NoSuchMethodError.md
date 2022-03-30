@@ -1,5 +1,5 @@
 ---
-title: 'Exception in thread "main" java.lang.NoSuchMethodError: com.google.common.base.Preconditions.checkArgument(ZLjava/lang/String;Ljava/lang/Object;)'
+title: 'Exception in thread "main" java.lang.NoSuchMethodError'
 author:
   name: 이용광
   link: https://github.com/dldydrhkd
