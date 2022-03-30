@@ -23,5 +23,5 @@ mermaid: true
     
     <img width="1143" alt="스크린샷_2022-01-31_오후_7 21 09" src="https://user-images.githubusercontent.com/48857296/160731557-1dc0e7ac-d08f-4b90-8eb5-6d3e6260cb05.png">
     
-    - '&#8;' 을 빼주었다.
+    - 을 빼주었다.
 - 빼주고 다시 hive를 실행했더니 해결이 되었다.
