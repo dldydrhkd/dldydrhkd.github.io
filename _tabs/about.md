@@ -1,11 +1,9 @@
 ---
-title: About
+title: 💁🏻 About Me
 icon: fas fa-info-circle
 order: 4
 ---
-# 몰입을 즐기는 지원자 이용광입니다.
-
-# 💁🏻 About Me
+# 몰입을 즐기는 신입 개발자 이용광입니다.
 
 ---
 
