@@ -3,7 +3,7 @@ title: "UNABLE_TO_VERIFY_LEAF_SIGNATURE"
 author:
   name: 이용광
   link: https://github.com/dldydrhkd
-date: 2022-08-01 17:21:00
+date: 2022-07-25 17:21:00
 categories: [Error]
 tags: [npm]
 math: true

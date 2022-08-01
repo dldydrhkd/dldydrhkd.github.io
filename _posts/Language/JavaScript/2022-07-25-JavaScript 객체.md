@@ -3,8 +3,8 @@ title: "JavaScript 객체"
 author:
   name: 이용광
   link: https://github.com/dldydrhkd
-date: 2022-08-02 12:12:00
-categories: [JavaScript]
+date: 2022-07-25 12:12:00
+categories: [Language, JavaScript]
 tags: [JavaScript, 객체]
 math: true
 mermaid: true
