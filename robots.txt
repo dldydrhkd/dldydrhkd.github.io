@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+Sitemap: https://dldydrhkd.github.io/sitemap.xml
